@@ -1,21 +1,24 @@
 # TypeScript
-[https://www.typescriptlang.org/](https://www.typescriptlang.org/) 
-[https://github.com/Microsoft/TypeScript](https://github.com/Microsoft/TypeScript) 
+[https://www.typescriptlang.org/](https://www.typescriptlang.org/)   
+[https://github.com/Microsoft/TypeScript](https://github.com/Microsoft/TypeScript)   
 
 ### INSTALLnpm  
+```sh
 $ install -g typescript 
-
+``` 
 ### COMPILEtsc   
+```sh
 $ helloworld.ts  
-[TypeScript demos](http://www.typescriptlang.org/samples/index.html) 
-[Samples for TypeScript](https://github.com/xgqfrms-GitHub/TypeScriptSamples)
-[tutorial : Quick start](http://www.typescriptlang.org/docs/tutorial.html) 
-[Playground](http://www.typescriptlang.org/play/index.html)
+``` 
+[TypeScript demos](http://www.typescriptlang.org/samples/index.html)   
+[Samples for TypeScript](https://github.com/xgqfrms-GitHub/TypeScriptSamples)    
+[tutorial : Quick start](http://www.typescriptlang.org/docs/tutorial.html)   
+[Playground](http://www.typescriptlang.org/play/index.html)  
 
-The TypeScript Definition Manager : [typings](https://github.com/typings/typings)  
-
-npm install --save-dev typescript typings
-
+The TypeScript Definition Manager : [typings](https://github.com/typings/typings)    
+```sh
+$ npm install --save-dev typescript typings
+``` 
 ### tsconfig.json
 ```json
 {
